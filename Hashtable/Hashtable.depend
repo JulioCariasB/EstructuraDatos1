@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1494601642 source:c:\users\julio\desktop\hashtable\contacto.cpp
+	"contacto.h"
+
+1494601643 c:\users\julio\desktop\hashtable\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1494613668 source:c:\users\julio\desktop\hashtable\main.cpp
+	<iostream>
+	"tablahash.h"
+	"contacto.h"
+	<stdio.h>
+
+1494612491 c:\users\julio\desktop\hashtable\tablahash.h
+	"contacto.h"
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1494613735 source:c:\users\julio\desktop\hashtable\tablahash.cpp
+	"tablahash.h"
+

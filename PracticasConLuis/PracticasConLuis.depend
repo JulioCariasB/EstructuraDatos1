@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1493911384 source:c:\users\julio\desktop\practicasconluis\contacto.cpp
+	"contacto.h"
+
+1493911376 c:\users\julio\desktop\practicasconluis\contacto.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1493912700 source:c:\users\julio\desktop\practicasconluis\lista_contacto.cpp
+	"lista_contacto.h"
+
+1493912292 c:\users\julio\desktop\practicasconluis\lista_contacto.h
+	<iostream>
+	<string>
+	<stdio.h>
+	"contacto.h"
+
+1493912631 source:c:\users\julio\desktop\practicasconluis\main.cpp
+	<iostream>
+	"lista_contacto.h"
+
